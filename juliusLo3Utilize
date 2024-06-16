@@ -6,6 +6,13 @@
 
 <body>
 	<p>Julius Lester V. Benter</p>
+	<b>Julius Lester V. Benter</b>
+	<i>Julius Lester V. Benter</i>
+	<u>Julius Lester V. Benter</u>
+	<strike>Julius Lester V. Benter</strike>
+	<tt>Julius Lester V. Benter</tt>
+	<sup>Julius Lester V. Benter</sup>
+	<sub>Julius Lester V. Benter</sub>
 </body>
 
 </html>
